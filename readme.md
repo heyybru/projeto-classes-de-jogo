@@ -64,11 +64,11 @@ O ninja atacou usando shuriken
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/heyybru/projeto-classes-de-jogo
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd projeto-classes-de-jogo
    ```
 3. Execute o código no interpretador da linguagem escolhida.
 
